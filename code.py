@@ -1,17 +1,3 @@
-##+LHDR###########################################################################################
-##
-##  File Name            :  M32ValCodeChecker.py
-##  Author               :  Vaskar Paul
-##  Creation Date        :  30/04/2015
-##  Description          :  M32ValCodeChecker tool checks whether coding standard has been followed
-##                          while library or test code development as mentioned in
-##                          "http://confluence:8080/display/HPMDVAL/Coding+Standards"
-##                          
-###################################################################################################
-## Copyright (c) Microchip Technology, Inc.
-## This file is the confidential and proprietary property of Microchip Technology, Inc. and the
-## possession or use of this file requires a written license from Microchip Technology, Inc.
-##-LHDR############################################################################################
 
 import sys
 
